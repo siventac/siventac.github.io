@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siventac.github.io/sitemap.html.gz
+Sitemap: https://siventac.github.io/app/sitemap.html.gz
+Sitemap: https://siventac.github.io/assets/sitemap.html.gz
+Sitemap: https://siventac.github.io/css/sitemap.html.gz
+Sitemap: https://siventac.github.io/includes/sitemap.html.gz
+Sitemap: https://siventac.github.io/item/sitemap.html.gz
+Sitemap: https://siventac.github.io/src/sitemap.html.gz
